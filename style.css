@@ -1,0 +1,39 @@
+body {
+    background-color: #D5F0D9;
+}
+
+.profile {
+    background: #71C099;
+    padding: 40px;
+    max-width: 450px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile h1 {
+    margin: 10px 0;
+    color: #296248;
+}
+
+.profile h2 {
+    color: #296248;
+}
+
+.profile p {
+    color: #296248;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+    color: #2f56aa;
+    font-size: 20px;
+}
